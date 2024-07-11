@@ -17,5 +17,4 @@ dependencies:
   - r-tidyverse
   - plotly
   - r-stringr
-  - statsmodels
-  - seaborn
+
