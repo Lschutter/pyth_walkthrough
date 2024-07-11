@@ -18,3 +18,4 @@ dependencies:
   - plotly
   - r-stringr
   - statsmodels
+  - seaborn
